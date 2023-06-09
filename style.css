@@ -1,0 +1,56 @@
+/* LAYOUT STYLE */
+.container{
+    border: solid #233142;
+    width: 50%;
+    margin: 5% 25%;
+}
+.container h1{
+    text-align: center;
+}
+/* Global Style */
+.col{
+    color: #233142;
+    font-size: 50px;
+    font-weight: 300; 
+    /* width: 33.33%; */
+    padding: 10px;
+    box-sizing: border-box;
+    border: solid #233142;
+    
+}
+
+.box-1{
+    background:#47060e; 
+     /* font-size: 1.3em;  */
+}
+.box-2{
+    background: #380d52; 
+     /* font-size: 3.3em;  */
+}
+.box-3{
+    background: #9896f1;
+    
+     /* font-size: 2.3em;  */
+}
+.box-4{
+    background: #8ef6e4; 
+    /* font-size: 5.3em; */
+}
+.box-5{background: #f76b8a;}
+.box-6{background: #fdb44b;}
+.box-7{background: #f95959;}
+.box-8{background: #ffebbb;}
+.box-9{background: #e0ffcd;}
+
+/* Container properties */
+.container-properties{
+    border: solid black;
+    margin: 5% 15%;
+    height: 50vh;
+    display:flex;
+    justify-content: center;
+    justify-content: space-between;
+
+    /* flex-wrap: wrap;
+    flex-direction: row-reverse; */
+}
